@@ -1,0 +1,2 @@
+# SAScanner
+Star Alliance Scanner
